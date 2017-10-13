@@ -6,7 +6,7 @@ We use facial CNN models and global image based models. Score fusion is used for
 To generate our submitted results, just run the shell script "sh run_score_combine.sh"
 
 ## 1.Test our models
-###1.Requires
+### 1.Requires
 * Caffe, Caffe-matlab
 * pytorch
 
