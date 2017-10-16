@@ -11,4 +11,5 @@ To generate our submitted results, just run the shell script "sh run_score_combi
 * pytorch
 
 
-
+### Image based CNN
+models: https://drive.google.com/open?id=0B-DiRMXFmUKQX3Qtb25xZkJLS1U
